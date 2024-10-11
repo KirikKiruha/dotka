@@ -56,7 +56,7 @@ footer {
     text-align: center;
 }
 
-/* Стили для навигационного меню */
+
 nav {
     margin-left: auto;
 }
@@ -83,12 +83,12 @@ nav {
 }
 
 .cont{
-    display: flex;                /* Включаем Flexbox */
-    justify-content: center;      /* Выравнивание по горизонтали */
-    align-items: center;          /* Выравнивание по вертикали */
-    height: 325px;                /* Задаем высоту контейнера */
+    display: flex;                
+    justify-content: center;      
+    align-items: center;          
+    height: 325px;                
 }
 .Undying {
-    max-width: 100%;              /* Картинка не выйдет за пределы контейнера */
-    height: 100%;                 /* Сохраняем пропорции изображения */
+    max-width: 100%;              
+    height: 100%;                 
 }
